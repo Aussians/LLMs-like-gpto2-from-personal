@@ -2,7 +2,6 @@
 
 
 
-This bonus folder contains code for running a ChatGPT-like user interface to interact with the instruction finetuned GPT from chapter 7, as shown below.
 
 
 
