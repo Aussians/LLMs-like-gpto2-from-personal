@@ -1,4 +1,4 @@
-# `llms-from-scratch` PyPI Package
+# `llms` PyPI Package
 
 This optional PyPI package lets you conveniently import code from various chapters of the *Build a Large Language Model From Scratch* book.
 
