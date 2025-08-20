@@ -27,7 +27,7 @@ pip install chainlit
 
 The [`app.py`](app.py) file contains the UI code based. Open and inspect these files to learn more.
 
-This file loads and uses the GPT-2 weights we generated in chapter 7. This requires that you execute the [`../01_main-chapter-code/ch07.ipynb`](../01_main-chapter-code/ch07.ipynb) file first.
+This file loads and uses the GPT-2 weights we generated. This requires that you execute the [`../ch07.py`](../ch07.py) file first.
 
 Excecute the following command from the terminal to start the UI server:
 
